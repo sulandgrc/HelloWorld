@@ -1,9 +1,11 @@
 package pieces;
 
-
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * This class keeps track of the languages spoken in the world today
+ */
 public class WorldLanguages {
 
     private Set<String> languages = new HashSet<>();
